@@ -1,4 +1,5 @@
-PriberamCompressiveSummarizationCorpus/* linguist-vendored=true
-Report/* linguist-vendored=true
 *.P text linguist-vendored=true
 *.C text linguist-vendored=true
+*.c text linguist-vendored=true
+PriberamCompressiveSummarizationCorpus/* linguist-vendored=true
+Report/* linguist-vendored=true
